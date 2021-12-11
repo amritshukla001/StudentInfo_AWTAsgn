@@ -13,11 +13,14 @@
 
 <img src="./screenshots/1.png">
 
-##User Datbase
+## User Datbase
 
 <img src="./screenshots/2.png">
 
-##Student Database
+## Student Database
 
 <img src="./screenshots/3.png">
 
+## Home Page
+
+<img src="./screenshots/4.png">
