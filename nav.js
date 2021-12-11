@@ -1,6 +1,3 @@
-function createACC() {
-  location.href = "./createACC.html";
-}
 function Data_E() {
   location.href = "./Data_Entry_.php";
 }
